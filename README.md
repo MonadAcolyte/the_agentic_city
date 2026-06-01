@@ -2,6 +2,12 @@
 
 A city with a multi-agent simulation that aims to test, via emergent behaviour, optimality for taxation, transport systems, sustainable use of land, development, and more.
 
+# Usage
+
+At this stage, run main.py and see the results.
+
+For now the relevant tweak-able parameters must be changed in the modules city.py and government.py 
+
 # Design principles
 
 1. The simulation engine is independent of visualization.
